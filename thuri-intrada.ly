@@ -19,7 +19,7 @@
 
 oboe = 
 {
-\tempo tempo
+\tempo maestoso
 \time 3/4
 \clef treble
 \key c \major
@@ -144,15 +144,15 @@ f4 g2 |
 a2 a4 |
 <a,a >2. |
 d2 bes,4 |
-< a, a >4 <bes, bes>4 <c c'>4 |
+< a, a >4_+ <bes, bes>4_+ <c c'>4_+ |
 <f c'> a d |
 e2 fis8 r8 |
 g2 g8 r8 |
 a2 b8 r8 |
 c'2. |
 < c g c'>2. \arpeggio |
-c2 r4 |
-c2 r4 |
+c2_+ r4 |
+c2_+ r4 |
 c2 r4 |
 c8-. r8 a2-> |
 d8-. r8 g2-> |
@@ -160,8 +160,8 @@ a4 f4 g4 |
 < c g c'>2 r4 |
 < c c'>8-. r8 <a, a>2 |
 d8 r8 <g, g>2 |
-<a, a>4 <f, f>4 <g, g>4 |
-c2 \fermata
+<a, a>4_+ <f, f>4_+ <g, g>4_+ |
+c2_+ \fermata
 }
 }
 
