@@ -5,7 +5,7 @@
 
 ## **Music Engraving**
 
-<img align="right" width="280" src="https://user-images.githubusercontent.com/53634881/175902034-629c65c4-d21b-4ca8-a226-7b2649bd2421.png" >
+<img align="right" width="300" src="https://user-images.githubusercontent.com/53634881/175902034-629c65c4-d21b-4ca8-a226-7b2649bd2421.png" >
 
 **Digitalization of harp scores. Dedicated to world harp communities.**
 
