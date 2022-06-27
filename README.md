@@ -1,3 +1,8 @@
+<p align="center" >
+  <img position="relative" width="700px" src="https://user-images.githubusercontent.com/53634881/175899453-16e80c64-a80b-44fd-8eda-8ac757cf9fbb.png">
+  
+  
+
 ## **Music Engraving**
 
 **Digitalization of harp scores. Dedicated to world harp communities.**
