@@ -1,9 +1,11 @@
-<p align="center" >
-  <img position="relative" width="700px" src="https://user-images.githubusercontent.com/53634881/175899453-16e80c64-a80b-44fd-8eda-8ac757cf9fbb.png">
-  
+
   
 
+
+
 ## **Music Engraving**
+
+<img align="right" width="240" src="https://user-images.githubusercontent.com/53634881/175902034-629c65c4-d21b-4ca8-a226-7b2649bd2421.png" >
 
 **Digitalization of harp scores. Dedicated to world harp communities.**
 
